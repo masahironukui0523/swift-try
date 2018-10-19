@@ -27,3 +27,5 @@ func ans(arr: [Int], tar: Int) -> (Int, Int)? {
 }
 
 print(ans(arr: arrayN, tar: target))
+
+//Test
