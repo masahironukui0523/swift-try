@@ -36,3 +36,4 @@ func countWordsInString(string: String) -> [String:Int] {
 
 countWordsInString(string: str)
 
+
